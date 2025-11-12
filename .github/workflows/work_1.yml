@@ -1,8 +1,0 @@
-name: Work 1 Ale
-on: [push]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps: 
-    - name: Print Somenthing
-      run: echo "Hola Ale"
